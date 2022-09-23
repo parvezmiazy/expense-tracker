@@ -9,6 +9,9 @@ function App() {
     <>
       <Header />
       <div className="container">
+        <i class="fa fa-text-height" aria-hidden="true">
+          tttt
+        </i>
         <Balance />
         <IncomeExpenses />
         <TransactionList />
